@@ -1,1 +1,1 @@
-This is a basic Ecommerce webpage created using HTML, Css and Java Script
+This is a basic JUICE SHOP from you, webpage created using HTML, Css and Java Script.
